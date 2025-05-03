@@ -1,0 +1,33 @@
+{
+    "projects": [
+      {
+        "image": "images/projects/th.jpg",
+        "title": "Finance Tracker – MERN Stack",
+        "bodyText": "- Developed a finance tracking web application using the MERN stack.\n- Implemented secure authentication with JWT and bcrypt for user access control.\n- Designed a user-friendly dashboard with Chart.js to visualize income and expenses.",
+       
+        "tags": ["MongoDB", "Express.js", "React", "Node.js"]
+      },
+      {
+        "image": "images/projects/th (1).jpg",
+        "title": "Heart Disease Detection using Machine Learning",
+        "bodyText": "- Developed a machine learning model for heart disease detection using Logistic Regression.\n- Performed data preprocessing, including handling missing values and encoding categorical variables.\n- Conducted Exploratory Data Analysis (EDA) to understand data distributions and patterns.\n- Split the dataset into training and testing sets for model evaluation.",
+       
+        "tags": ["Python", "Machine Learning", "EDA", " Logistic Regression"]
+      },
+      {
+        "image": "images/projects/th (2).jpg",
+        "title": "Secure Communication System using Blockchain and Cryptography",
+        "bodyText": "- Developed a secure communication system with message encryption and decryption using cryptographic algorithms and unique random keys.\n- Utilized Blockchain to create an immutable ledger for message verification and integrity.\n- Deployed sender and receiver components separately for enhanced scalability and reliability.",
+        
+        "tags": ["Cryptography", "Blockchain", "Secure COmmunication"]
+      },
+      {
+        "image": "images/projects/th (3).jpg",
+        "title": "Library Management System",
+        "bodyText": "- Designed and implemented a Library Management System in Java with MySQL for user management and book transactions.\n- Created admin and user roles for managing book inventory and borrowing operations.\n- Integrated user authentication and error handling for seamless database interactions.",
+       
+        "tags": ["Java", "MySQL"]
+      }
+    ]
+  }
+  
