@@ -59,5 +59,9 @@
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
-  }
+  },
+  "description": "## A minimal portfolio template for Developers!",
+  "main": ".eslintrc.js",
+  "author": "",
+  "license": "ISC"
 }
